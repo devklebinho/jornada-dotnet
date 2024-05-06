@@ -1,0 +1,15 @@
+C:\Users\Biblioteca\Desktop\KLEBER\jornada-dotnet\consoleapps\runitcs\bin\Debug\net8.0\runitcs.exe
+C:\Users\Biblioteca\Desktop\KLEBER\jornada-dotnet\consoleapps\runitcs\bin\Debug\net8.0\runitcs.deps.json
+C:\Users\Biblioteca\Desktop\KLEBER\jornada-dotnet\consoleapps\runitcs\bin\Debug\net8.0\runitcs.runtimeconfig.json
+C:\Users\Biblioteca\Desktop\KLEBER\jornada-dotnet\consoleapps\runitcs\bin\Debug\net8.0\runitcs.dll
+C:\Users\Biblioteca\Desktop\KLEBER\jornada-dotnet\consoleapps\runitcs\bin\Debug\net8.0\runitcs.pdb
+C:\Users\Biblioteca\Desktop\KLEBER\jornada-dotnet\consoleapps\runitcs\obj\Debug\net8.0\runitcs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Biblioteca\Desktop\KLEBER\jornada-dotnet\consoleapps\runitcs\obj\Debug\net8.0\runitcs.AssemblyInfoInputs.cache
+C:\Users\Biblioteca\Desktop\KLEBER\jornada-dotnet\consoleapps\runitcs\obj\Debug\net8.0\runitcs.AssemblyInfo.cs
+C:\Users\Biblioteca\Desktop\KLEBER\jornada-dotnet\consoleapps\runitcs\obj\Debug\net8.0\runitcs.csproj.CoreCompileInputs.cache
+C:\Users\Biblioteca\Desktop\KLEBER\jornada-dotnet\consoleapps\runitcs\obj\Debug\net8.0\runitcs.sourcelink.json
+C:\Users\Biblioteca\Desktop\KLEBER\jornada-dotnet\consoleapps\runitcs\obj\Debug\net8.0\runitcs.dll
+C:\Users\Biblioteca\Desktop\KLEBER\jornada-dotnet\consoleapps\runitcs\obj\Debug\net8.0\refint\runitcs.dll
+C:\Users\Biblioteca\Desktop\KLEBER\jornada-dotnet\consoleapps\runitcs\obj\Debug\net8.0\runitcs.pdb
+C:\Users\Biblioteca\Desktop\KLEBER\jornada-dotnet\consoleapps\runitcs\obj\Debug\net8.0\runitcs.genruntimeconfig.cache
+C:\Users\Biblioteca\Desktop\KLEBER\jornada-dotnet\consoleapps\runitcs\obj\Debug\net8.0\ref\runitcs.dll
